@@ -1,0 +1,1084 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+
+img
+{
+    max-width: 100%;
+}
+
+a .text-trans
+{
+    text-transform: capitalize;
+}
+
+a:hover
+{
+    color: #ff0362 !important;
+}
+.margin
+{
+    margin: 0 47.85px 0 47.852px;
+    height: 38px;
+    display: flex;
+    /* align-content: center; */
+    align-items: center;
+    justify-content: space-between;
+    /* justify-content: space-between; */
+}
+
+.content-1
+{
+    text-decoration: none;
+    color: #fff;
+    font-size: 12.5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    display:inline-block;
+    align-self: center;
+}
+.content-1 a
+{
+    text-decoration: none;
+    color: white;
+    padding: 0px 10px 0px 10px;
+}
+
+
+
+body
+{
+    margin:0px;
+    /* font-family: 'Source Sans Pro', sans-serif; */
+    font-family: "Poppins, sans-serif";
+}
+
+.btn1 {
+    background: #00bd8e;
+    background-image: -webkit-linear-gradient(top, #00bd8e, #00bd8e);
+    background-image: -moz-linear-gradient(top, #00bd8e, #00bd8e);
+    background-image: -ms-linear-gradient(top, #00bd8e, #00bd8e);
+    background-image: -o-linear-gradient(top, #00bd8e, #00bd8e);
+    background-image: linear-gradient(to bottom, #00bd8e, #00bd8e);
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 15px 10px 15px;
+    border: solid #00bd8e 4px;
+    text-decoration: none;
+  }
+  
+  .btn1:hover {
+    background: #039974;
+    background-image: -webkit-linear-gradient(top, #039974, #00bd8e);
+    background-image: -moz-linear-gradient(top, #039974, #00bd8e);
+    background-image: -ms-linear-gradient(top, #039974, #00bd8e);
+    background-image: -o-linear-gradient(top, #039974, #00bd8e);
+    background-image: linear-gradient(to bottom, #039974, #00bd8e);
+    text-decoration: none;
+  }
+
+.btn-hov
+{
+
+}
+
+
+.background-img-frame
+{
+    background-image :linear-gradient(to right, rgba(0, 21, 16, 0.52), rgba(0, 191, 143, 0.73)),url("https://carspot.scriptsbundle.com/bikes/wp-content/uploads/sites/16/2017/07/banner_gsxr1000-desktop_1920x620-1.jpg");
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    color: white;
+    padding: 0px;
+    position: relative;
+
+}
+.whitebg
+{
+    background-color: #fff;
+}
+
+.form-select.form-select-lg.mb-3
+{
+    color: white !important;
+    background-color: #fff !important;
+    border-radius:0px;
+    
+}
+.form-search
+{
+    width: 81%;
+    height: 105px;
+    padding: 30px 30px 30px 30px;
+    background: #000;
+    margin: 0 auto;
+    opacity: 0.8;
+}
+
+.input-group
+{
+    border-radius: 0% !important;
+
+}
+
+.form-control
+{
+    border-radius: 0px !important;
+    border: 1px #fff !important;
+    height: 48px;
+    padding: 14px !important;
+    font-size: 14px !important;
+    width: 24px;
+    margin-top: 0.5;
+    margin-top: 0px;
+
+}
+
+.banner-icon-search {
+    background: #fff url(https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-search-icon-png-image_3783210.jpg) no-repeat scroll 97% 15px / 21px 21px;
+}
+
+
+/*
+.margin-menu
+{
+    margin: 0 116.85px 0 116.852px;
+    padding-top: 20px;
+    padding-bottom: 20px ;
+    height: 90px;
+}
+*/
+.menu
+{
+    height: 90px;
+    padding-top: 20px;
+    padding-bottom: 20px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-nav.me-auto.my-2.my-lg-0.navbar-nav-scroll li a
+{
+    color: #001510;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.navbar.navbar-expand-lg.navbar-light 
+{
+    padding-top: 0px    ;
+}
+
+
+
+.class
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 50px;
+}
+
+.icon {
+    background: #fff url(https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-search-icon-png-image_3783210.jpg) no-repeat scroll 97% 15px / 21px 21px;
+    float: left;
+    width: 10px;
+    height: 40px;
+}
+
+.Top
+{
+    height: 38px;
+    background: linear-gradient(to right,#001510,#00bf8f);
+    margin: 0px;
+
+}
+
+.text
+{
+    width: 100%;
+    /* height: 300px; */
+    /* padding: 0px 70px 0px 70px; */
+    text-align: center;
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%,-50%);
+    /* width: 200px;
+    height: 200px; */
+    /* position: relative; */
+    /* top: 177px; */
+    /* left: 137px; */
+}
+
+.text p 
+{
+    font-size: 24px;
+    padding: 2rem 0rem;
+}
+.theme1
+{
+    width: 100%;
+    height: 48px;
+}
+
+h1
+{
+    font-family: 'Poppins';
+    line-height: 1.6rem !important;
+    font-size: 42px !important;
+    font-weight: 600 !important;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+/* p
+{
+    font-size: 23px;
+    line-height: 5.8rem;
+    margin-bottom: 10px;
+    font-weight: 400;
+    
+} */
+
+/* Menue */
+
+.menue
+{
+    padding: 90px 0 60px 0;
+    text-align: center;
+    position: relative;
+}
+
+.head-text
+{
+    font-weight: 650;
+    font-size: 1.9rem;
+    margin-bottom: 44px;
+}
+
+.head-text::before
+{
+    content: '';
+    position: absolute;
+    height: 0.5px;
+    width: 9%;
+    background-color: black;
+    bottom: 46px;
+    text-align: center;
+    right: 570px;
+}
+
+.head-text::after
+{
+    content: '';
+    position: absolute;
+    height: 0.5px;
+    width: 6%;
+    background-color: black;
+    bottom: 39px;
+    text-align: center;
+    right: 588px;
+}
+
+h2 span
+{
+    color: #00bf8f;
+}
+
+.sub-text
+{
+    color:rgba(0, 21, 16,0.5);
+    font-size: 1rem;
+}
+
+.menue-heading
+{
+    position: relative;
+}
+
+
+/* Sell-box */
+
+.sell-box
+{
+    /* padding-top: 70px; */
+    /* width: 1140px; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.grid
+{
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    min-width: 0;
+    min-height: 0;
+    
+}
+
+.image-bike1
+{
+    position: relative;
+    margin-bottom: -56px;
+    left: -55px;
+}
+.image-bike1 img
+{
+    width: 128%;
+    position: relative;
+}
+
+.first-pitch
+{
+    padding:0px 10px;
+    background-color: #f6f6f6;
+}
+
+.sec-pitch
+{
+    padding:0px 10px;
+    background-color: #f0f2f5;
+}
+
+
+.container
+{
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    /* width: 1140px; */
+}
+
+.pad
+{
+    padding:70px 130px 0px 130px;
+}
+
+.text-pitch h5
+{
+    font-weight: 400;
+    font-size: 1.18rem;
+}
+.text-pitch p
+{
+    margin-top: 1px;
+    color: rgba(0, 0, 0, 0.445);
+    font-weight: 500;
+    line-height: 22px;
+    margin-bottom: 50px;
+}
+
+
+/* Sell Cards */
+
+.sell-cards
+{
+    margin-top: 3rem;
+    
+    position: relative;
+    padding: 70px 0 60px 0;
+}
+
+.sell-cards .menue-heading
+{
+    text-align: center;
+}
+.custom-marging
+{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.sell-cards li
+{
+    list-style: none;
+}
+.sell-cards ul
+{
+    padding: 0px;
+}
+
+.Card
+{
+    border: 1.3px solid rgba(201, 200, 200, 0.548);
+    margin-top: 2.5rem;
+}
+
+.Card img
+{
+    display: inline-block;
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+}
+.grid-3-main
+{
+    display: grid;
+    grid-template-columns: 1.47fr 3fr 1fr;
+}
+.card-content-2
+{
+    padding: 25px 20px 17px 20px;
+}
+
+.card-content-3
+{
+    padding: 25px 20px 15px 20px;
+}
+.card-content-2 li
+{
+    display: flex;
+    line-height: 27.2px;
+    vertical-align: baseline;
+    font-size: 16px;
+    color: rgb(136, 136, 136);
+    font-weight: 400;
+    font-family: 'Source Sans Pro';
+    margin: 0%;
+    
+}
+.card-content-2 ul
+{
+    margin: 0%;
+}
+
+.card-content-2 h3
+{
+    font-family: 'Poppins',sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    vertical-align: baseline;
+    padding-left: 10px;
+    margin: 0%;
+}
+li > ul
+{
+    margin-right: 6px;
+}
+
+li i
+{
+    padding: 10px;
+    color:rgb(175, 175, 175);
+}
+
+.card-content-3 ul
+{
+    line-height: 27.2px;
+    font-size: 15px;
+    font-family: 'Source Sans Pro';
+    vertical-align: baseline;
+    font-weight: 600;
+    margin: 2px;
+}
+
+.card-content-3 ul:nth-child(4)
+{
+    font-size: 24px;
+    color: #00bd8e;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.card-content-3 ul:nth-child(4) span
+{
+    color:rgb(136, 136, 136);
+    font-weight: 500; 
+    font-size: 15px;
+}
+.grey
+{
+    color:rgb(136, 136, 136);
+    font-weight: 500;   
+}
+
+.self-edit
+{
+    padding-top: 1px;
+    padding-bottom: 2px;
+    border: 1px;
+    width: 100%;
+}
+
+.background-wrapper
+{
+    margin-top: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.background-wrapper.bg-2
+{
+    margin-top: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    position: relative;
+}
+.background-img img
+{
+    background-image :url("https://carspot.scriptsbundle.com/bikes/wp-content/uploads/sites/16/2017/07/whi.jpg");
+    
+    opacity: 0.3;
+    
+    height: 100%;
+    width:100%;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    /* object-fit: cover; */
+    object-position: 20% 10%;
+    /* background-size: cover; */
+    position: relative;
+}
+.background-wrapper.bg-2 img
+{
+    background-image :url("https://carspot.scriptsbundle.com/bikes/wp-content/uploads/sites/16/2017/07/cvr-2.jpg");
+    transform: scale(1.5);
+    position: absolute;
+}
+.profile-img
+{
+    transform: none !important;
+    position: initial !important;
+    width: 105px !important;
+    opacity: 1 !important;
+    border-radius: 145px;
+    /* transform: scale(2); */
+    
+}
+.background-img
+{
+    resize: both;
+    /* background: rgba(0, 0, 0, 0.4   ) none repeat scroll 0 0; */
+    height: 335px;
+    overflow:hidden;
+    position: relative;
+    background-color: #000;
+    z-index: 1;
+    
+}
+.text-over
+{
+    position: absolute;
+    z-index: 100;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    top: 0px;
+    color: white;
+    align-items: center;
+}
+
+.card-text-over
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-text >*
+{
+    margin: 1rem 0px 1rem 0px;
+}
+.card-text h1
+{
+    font-size: 1em;
+}
+.card-text h2
+{
+    font-weight: 500;
+    font-size: 1.8em;
+}
+
+.menue-heading>*
+{
+    align-items: center;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.top-margin
+{
+    margin: 4rem 0rem 4rem 0rem;
+}
+
+.post-info{
+    display:flex;
+    margin: 5px 0px;
+    color: #999;
+    /* justify-content: space-between; */
+    align-items: center;
+    align-self: center;
+    font-size: 14px;
+    line-height: 27.2px;
+    align-content: center;
+}
+
+.adjustments
+{
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
+    gap: 2rem
+    ;
+}
+
+.blog-main
+{
+    min-width: 100%;
+}
+
+.blog .card-horizontal
+{
+    padding: 1rem;
+    margin-top: 3.5rem;
+}
+p{
+    margin-bottom: 0% !important;
+}
+.card-content img
+{
+    max-width: 100%;
+    margin-bottom: 1rem;
+
+}
+
+.card-content
+{
+    border: 1.3px solid rgba(201, 200, 200, 0.548);
+    font-family: 'Poppins';
+}
+
+.card-content h3
+{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28.8px;
+    vertical-align: baseline;
+    color: #000;
+}
+
+.card-content h3 ,.card-content p
+{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.card-content p
+{
+    color: #999;
+    font-size: 1rem;
+    font-family: 'Source Sans Pro', sans-serif; 
+    
+}
+
+@media (max-width: 500px) {
+
+    .background-frame .adjustments
+    {
+        grid-template-columns: minmax(0, 1fr);
+        grid-template-rows: minmax(0,1fr) minmax(0,1fr) minmax(0,1fr);
+        max-width: 100%;
+    }
+
+    .center
+    {
+        display: inline;
+    }
+
+    .background-frame .resp
+    {
+        display: grid;
+        grid-template-columns: minmax(0,1fr);
+        grid-template-rows: minmax(0,1fr) minmax(0,1fr) minmax(0,1fr);
+
+    }
+
+    .form-search
+    {
+        grid-column: 1;
+        max-width: 100%;
+    }
+    
+  }
+
+.hidden .resp
+{
+    display: grid;
+    grid-template-columns: minmax(0,1fr);
+    /* grid-template-rows: minmax(0,1fr) minmax(0,1fr) minmax(0,1fr); */
+    grid-auto-flow: row;
+    grid-auto-rows: minmax(0,1fr) minmax(0,1fr) minmax(0,1fr);
+
+}
+
+.hidden
+{
+    height: 400px;
+    visibility:;
+}
+
+.Center-Card
+{
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    justify-self: center;
+}
+ul
+{
+    padding: 0% !important;
+}
+
+.Center-Card .card-text
+{
+    background-color: white;
+    padding: 20px;
+    height: fit-content;
+}
+
+.profile-main ul
+{
+    list-style-type: none;
+}
+
+.card-text h4
+{
+    font-size: 20px;
+    font-family: 'Poppins','sans-serif';
+    font-weight: 500;
+    line-height: 28.8px;
+    text-transform: uppercase;
+}
+
+.card-text h3
+{
+    font-size: 18px;
+    line-height: 25px;
+    font-family: 'Poppins','sans-serif';
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.profile-main li i
+{
+    padding: 0%;
+}
+
+.Bike-Insception
+{
+    margin: 7rem 0;
+}
+
+.list-Inspection li
+{
+    /* float: left; */
+    /* padding: 10px; */
+    list-style: none;
+    display: inline;
+    /* margin: 10px; */
+    font-family: "Source Sans Pro";
+    font-size: 16px;
+    line-height: 25.6px;
+    font-weight: 500;
+    color:rgb(119, 119, 119)
+}
+
+.list-Inspection i
+{
+    color: #00bd8e;
+}
+.Bike-Text
+{
+    padding: 2rem;
+}
+
+.Bike-Text h3
+{
+    font-family: "Poppins";
+    font-size: 18px;
+    line-height: 28.8px;
+    font-weight: 400;
+}
+
+.Bike-Text h2
+{
+    font-family: "Poppins";
+    font-size: 24px;
+    line-height: 33.6px;
+    font-weight: 700;
+}
+.Bike-Text p
+{
+    font-family: "Source Sans Pro";
+    font-size: 16px;
+    line-height: 25.6px;
+    font-weight: 500;
+    color:rgb(119, 119, 119)
+}
+.grid-3
+{
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
+    min-width: 0;
+    min-height: 0;   
+}
+
+.list-Inspection div :nth-child(1)
+{
+    grid-column: 1;
+}
+.list-Inspection div :nth-child(2)
+{
+    grid-column: 2;
+}
+.list-Inspection div :nth-child(3)
+{
+    grid-column: 3;
+}
+
+.ads-make
+{
+    background-color: #f6f6f6;
+    padding: 60px 0px;
+}
+
+.ads-make h2
+{
+    margin-left: 41px;
+    margin-bottom: 4rem;
+    font-size: 28px;
+    /* padding: 2rem; */
+    font-family: "Poppins","sans-serif";
+    line-height: 45px;
+    font-weight: 700;
+    text-transform: capitalize;
+    position: relative;
+}
+
+.ads-make h2::before
+{
+    background-color: #242424;
+    top: 60px;
+    content: '';
+    height: 0.5px;
+    position: absolute;
+    left: 0;
+    width: 99px;
+    margin: 0px;
+}
+
+.ads-make h2::after
+{
+    background-color: #242424;
+    top: 65px;
+    content: '';
+    height: 1px;
+    position: absolute;
+    left: 0;
+    width: 70px;
+    margin: 0px;
+}
+
+.ads-make p
+{
+    text-align: center;
+}
+.logos
+{
+    display: flex;
+    justify-content: space-around;
+    /* margin: 4rem 0; */
+}
+
+.download
+{
+    height: 574px;
+    background-color: #000;
+    position: relative;
+    z-index: -10;
+}
+
+.download .background-img-1
+{
+    background-image :url("https://carspot.scriptsbundle.com/bikes/wp-content/uploads/sites/16/2017/07/37a158872daafc70051c783087f990de.jpg");
+    
+    opacity: 0.2;
+    
+    height: 574px;
+    width:100%;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #000;
+
+    /* object-fit: cover; */
+    object-position: 20% 10%;
+    background-size: cover;
+    position: absolute;
+    z-index: 10;
+}
+.app-download-container
+{
+    padding-top: 90px;
+    margin: 0 auto;
+    position: absolute;
+    z-index: 100;
+    top: 60%;   
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.mobile-content
+{
+    position:relative;
+    z-index: 200;
+    bottom: 12px;
+}
+
+.mobile-content img
+{
+    width: 1000px;
+}
+
+.app-text
+{
+    color: #fff;
+    margin: 2rem;
+}
+
+.app-text h5
+{
+    margin-bottom: 5px;
+    opacity: .8;
+    font-size: 0.9rem;
+    line-height: 1.6em;
+    font-family: "Poppins",sans-serif;
+}
+
+.app-text h3
+{
+    margin-bottom: 5px;
+    opacity: 1;
+    font-size: 2rem;
+    line-height: 1.6em;
+    font-family: "Poppins",sans-serif;
+}
+
+.app-text li
+{
+    list-style: none;
+    padding-left: 1rem;
+}
+.download .grid
+{
+    grid-template-columns: 316px 500px;
+}
+
+
+.btn
+{
+    margin: 1rem;
+}
+.bg-footer
+{
+    position: relative;
+    border-top: 1px dashed #ddd;
+    background: rgba(0, 0, 0, 0) url("https://carspot.scriptsbundle.com/bikes/wp-content/themes/carspot/images/footer-banner.png") repeat-x scroll center bottom;
+}
+.footer-container
+{
+    padding: 70px 0 40px;
+    margin: 0px 47px;
+}
+
+.grid-4
+{
+    grid-template-columns: 2fr 1fr 1fr 4fr;
+    gap: 3rem;
+}
+.download-footer img
+{
+    margin-bottom: 0.7rem;
+}
+.download-footer p
+{
+    color: #777;
+}
+.apps-donwloads
+{
+    display: flex;
+    gap: 1rem;
+    margin-top: 0.9rem;
+}
+.apps-donwloads li,.follow-us li,.quickLinks li
+{
+    list-style: none;
+    line-height: 28px;
+}
+footer h5
+{
+    margin: 0 0 18px;
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 0px;
+}
+.follow-us a ,.quickLinks a
+{
+    text-decoration: none;
+    color: #777;
+}
+
+.follow-us, .quickLinks,.newsletter
+{
+    padding-top: 8px;
+}
+
+.fieldset p
+{
+    line-height: 28px;
+    margin-bottom: 1.5rem !important;
+    color: #777;
+}
+
+.fieldset form input[type = "text"]
+{
+    background-color: #f5f5f5;
+    border: medium none;
+    color: #999;
+    font-size: 12px;
+    height: 48px;
+    padding: 0 15px;
+    width: 70%;
+}
+
+.copyright p
+{
+    margin-top: 1.5rem;
+    color: #777;
+}
+
+.copyright a
+{
+    color: #00bd8e;
+    text-decoration: none;
+}
+.Details
+{
+    /* padding-left: 10px; */
+}
